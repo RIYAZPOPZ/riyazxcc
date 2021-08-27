@@ -1,2 +1,1 @@
-# riyatronic
-Riyatronic page
+# riyatronic.github.io
